@@ -15,7 +15,7 @@ import pprint
 import webbrowser
 
 
-dbname = '../database.db'
+dbname = '../pyramid_news.db'
 
 zip_code=[]
 
